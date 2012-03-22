@@ -1,0 +1,8 @@
+OpenGL experiments using OpenTK
+===============================
+Developed by Leonel Machava <leonelmachava@gmail.com>
+http://codentronix.com
+
+In this repository I have some of my experiments with OpenGL using OpenTK.
+For development I used Visual Basic 2010 Express.
+For each project I have uploaded just the main files project files excluding the bin and object directories.
