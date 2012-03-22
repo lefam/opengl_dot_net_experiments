@@ -1,0 +1,15 @@
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\bin\Debug\GLCube.exe
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\bin\Debug\GLCube.pdb
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\bin\Debug\GLCube.xml
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\bin\Debug\OpenTK.dll
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\bin\Debug\OpenTK.xml
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\GLCube.Resources.resources
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\GLCube.exe
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\GLCube.xml
+C:\Users\LefaM\Documents\My Dropbox\devel\vb.net\GLCube\obj\x86\Debug\GLCube.pdb
+C:\Users\LefaM\Documents\My Dropbox\devel\OpenGL\dotnet\GLCube_GouraudShaded\obj\x86\Debug\GLCube.exe
+C:\Users\LefaM\Documents\My Dropbox\devel\OpenGL\dotnet\GLCube_GouraudShaded\obj\x86\Debug\GLCube.xml
+C:\Users\LefaM\Documents\My Dropbox\devel\OpenGL\dotnet\GLCube_GouraudShaded\obj\x86\Debug\GLCube.pdb
