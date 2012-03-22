@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Terrain", "Terrain.vbproj", "{F28D89EF-3F2D-4C56-BCEE-5D1582C8002B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28D89EF-3F2D-4C56-BCEE-5D1582C8002B}.Debug|x86.ActiveCfg = Debug|x86
+		{F28D89EF-3F2D-4C56-BCEE-5D1582C8002B}.Debug|x86.Build.0 = Debug|x86
+		{F28D89EF-3F2D-4C56-BCEE-5D1582C8002B}.Release|x86.ActiveCfg = Release|x86
+		{F28D89EF-3F2D-4C56-BCEE-5D1582C8002B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
